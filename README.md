@@ -9,7 +9,7 @@
 ## ⚙️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,git,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,Github,angular,postgres,git" />
 </p>
 
 ---
@@ -18,10 +18,10 @@
 
 <p align="center">
   <a href="https://github.com/Mobeen0119/Medi_Care">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=project1&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/Mobeen0119/Blog_So">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=project2&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
