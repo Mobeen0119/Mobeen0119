@@ -1,7 +1,7 @@
 <h1 align="center">Mobeen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=450&lines=Backend+focused;Building+things+that+make+sense" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=450&lines=Make+sense" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## ⚙️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,Github,angular,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,github,angular,postgres,git" />
 </p>
 
 ---
