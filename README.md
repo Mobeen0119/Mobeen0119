@@ -18,10 +18,10 @@
 
 <p align="center">
   <a href="https://github.com/Mobeen0119/Medi_Care">
-    <img alt="Medi_Care Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=project1&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=Medi_Care&theme=github_dark&hide_border=true" alt="Medi_Care" />
   </a>
   <a href="https://github.com/Mobeen0119/Blog_So">
-    <img alt="Blog_So Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=project2&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=Blog_So&theme=github_dark&hide_border=true" alt="Blog_So" />
   </a>
 </p>
 
