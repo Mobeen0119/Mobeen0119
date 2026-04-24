@@ -20,11 +20,11 @@
   <a href="https://github.com/Mobeen0119/Medi_Care">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=Medi_Care&theme=github_dark&hide_border=true" alt="Medi_Care" />
   </a>
+  
   <a href="https://github.com/Mobeen0119/Blog_So">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=Blog_So&theme=github_dark&hide_border=true" alt="Blog_So" />
   </a>
 </p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobeen0119&layout=compact&theme=radical)
 
 ## 📊
 
