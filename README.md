@@ -9,7 +9,7 @@
 ## ⚙️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,github,angular,c,c++,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,github,angular,c,postgres,git" />
 </p>
 
 ---
