@@ -6,7 +6,7 @@
 
 ---
 
-## ⚙️
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,github,angular,c,postgres,git" />
@@ -18,24 +18,24 @@
 
 <p align="center">
   <a href="https://github.com/Mobeen0119/Medi_Care">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=Medi_Care&theme=github_dark&hide_border=true" alt="Medi_Care" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=Medi_Care&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00f7ff&icon_color=00f7ff" alt="Medi_Care" />
   </a>
   
   <a href="https://github.com/Mobeen0119/Blog_So">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=Blog_So&theme=github_dark&hide_border=true" alt="Blog_So" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobeen0119&repo=Blog_So&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00f7ff&icon_color=00f7ff" alt="Blog_So" />
   </a>
 </p>
 
-## 📊
+## 📊 Analytics & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mobeen0119&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mobeen0119&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mobeen0119&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00f7ff&icon_color=00f7ff&cursor_color=00f7ff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mobeen0119&theme=tokyonight&hide_border=true&background=1a1b26&fire=00f7ff&ring=00f7ff&sideNums=ffffff&currStreakNum=00f7ff"/>
 </p>
 
 ---
 
-## 🌐
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mobeen-ahmed-9a943835a/">
